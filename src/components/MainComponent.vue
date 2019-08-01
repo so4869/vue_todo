@@ -5,7 +5,7 @@
     <hr class="my-4">
     <p>웰컴이고 나발이고 집에가서 쉬고싶다.</p>
     <p class="lead">
-      <a href="#" class="btn btn-primary">일정보기</a>
+      <router-link to="/todo" class="btn btn-primary">일정보기</router-link>
     </p>
   </div>
 </template>
